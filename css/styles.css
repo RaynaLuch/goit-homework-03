@@ -74,6 +74,7 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 
 .header-link:hover,
@@ -349,12 +350,10 @@ img {
 .menu-style {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .address-style {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .header-container {
   display: flex;
