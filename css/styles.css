@@ -112,6 +112,7 @@ img {
   letter-spacing: 0.02em;
   padding-bottom: 48px;
   max-width: 496px;
+  margin: 0 auto;
 }
 .hero-button {
   display: block;
