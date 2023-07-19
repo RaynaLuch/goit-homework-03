@@ -251,8 +251,9 @@ img {
 .container {
   max-width: 1440px;
   margin: 0 auto;
-  padding-left: 156px;
-  padding-right: 156px;
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .portfolio-card-set {
