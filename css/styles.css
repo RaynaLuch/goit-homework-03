@@ -188,8 +188,7 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  padding-top: 120px;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .advantage-box-title {
@@ -218,7 +217,7 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 .advantage-section {
-  padding-top: 120px;
+  padding: 120px 0;
 }
 .box-set {
   display: flex;
@@ -236,7 +235,7 @@ img {
 }
 .team {
   background-color: var(--color-light);
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 
 .team-card-title {
